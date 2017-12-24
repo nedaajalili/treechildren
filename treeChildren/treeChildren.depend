@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514139043 source:/home/neda/Desktop/treeChildren/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
